@@ -11,15 +11,20 @@
 主な機能は以下の通りです：
 
 *ユーザーインターフェース（UI）の作成
+
 *レスポンシブデザインの実現
+
 *JavaScriptを用いたアニメーション（特にChart.jsとヘッダーアニメーションには時間をかけて調整しました）
+
 *CSSでタイムツリーの作成
 
 
 使用した技術は以下の通りです：
 
 *フロントエンド: HTML, CSS, JavaScript
+
 *開発環境: Visual Studio Code, Git, GitHub
+
 *その他: GitHub Pagesでホスティング
 
 
