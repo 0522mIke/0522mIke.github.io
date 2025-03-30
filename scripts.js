@@ -89,10 +89,10 @@ const chartOptions = {
 
 // データセット
 const data1 = {
-    labels: ["HTML", "CSS", "JavaScript", "React", "Vue.js", "Bootstrap"],
+    labels: ["HTML", "CSS", "JavaScript", "React", "Next.js", "TailwindCSS"],
     datasets: [{
         label: "フロントエンド技術",
-        data: [70, 70, 40, 20, 20, 50],
+        data: [70, 70, 50, 40, 40, 40],
         backgroundColor: "rgba(75, 192, 192, 0.2)",
             borderColor: "rgba(75, 192, 192, 1)",
         borderWidth: 1
@@ -100,10 +100,10 @@ const data1 = {
 };
 
 const data2 = {
-    labels: ["Java", "Python", "Node.js", "GitHub", "MySQL", "PHP"],
+    labels: ["Java", "Python", "Node.js", "Git", "Firebase", "PHP"],
     datasets: [{
         label: "バックエンド技術",
-        data: [50, 35, 20, 60, 30, 25],
+        data: [50, 35, 20, 60, 50, 25],
         backgroundColor: "rgba(153, 102, 255, 0.2)",
             borderColor: "rgba(153, 102, 255, 1)",
         borderWidth: 1
